@@ -23,7 +23,7 @@ public class SwitchDaysInMonthPrinter {
                 days = 28;
                 break;
             default:
-                System.out.println("Wrong number!");
+                System.out.println("wrong number!");
                 break;
         }
     }
